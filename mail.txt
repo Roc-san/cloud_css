@@ -1,0 +1,48 @@
+BAC 1:
+	Q1:
+	Mathématiques générales I:	F.Bastin@uliege.be
+	physique:mécanique: 		Matthieu.Verstraete@uliege.be
+	Intro à la programmation:	Benoit.Donnet@uliege.be
+	Premier projet d'informatique:	Laurent.Mathy@uliege.be
+	Math pour l'informatique 1: 	echarlier@uliege.be
+	Lab de prog math et physique 1: Bernard.Boigelot@uliege.be; echarlier@uliege.be; Matthieu.Verstraete@uliege.be 
+	Q2:
+	Basic English for Computing:	sdarconso@uliege.be; cbouvy@uliege.be; Daphne.Bui@uliege.be
+	Projet de programmation:	Benoit.Donnet@uliege.be
+	Organisation des ordinateurs:	Bernard.Boigelot@uliege.be
+	physique:électromagnétisme:	Matthieu.Verstraete@uliege.be
+	Compléments de programmation:	Benoit.Donnet@uliege.be
+	Statistique descriptive: 	Arnout.VanMessem@uliege.be
+	Lab de prog math et physique 2: Bernard.Boigelot@uliege.be; echarlier@uliege.be; Matthieu.Verstraete@uliege.be
+BAC 2:
+	Computing English: 		Adnan.Vesseur@uliege.be; cbouvy@uliege.be
+	Q1:
+	Intro à l'analyse économique: 	HJ.Gathon@uliege.be
+	Théorie des graphes:		M.Rigo@uliege.be
+	Intr à l'algo numérique: 	Q.Louveaux@uliege.be
+	Eléments du calcul des proba:	Celine.Esser@uliege.be
+	Programmation fonctionnelle:	C.Debruyne@uliege.be
+	Q2:
+	Compta générale ds entreprises: Anne.Bils@uliege.be
+	Digital electronics: 		Jean-Michel.Redoute@uliege.be
+	SDA:				P.Geurts@uliege.be
+	OOP:				Bernard.Boigelot@uliege.be
+	Bases de données:		C.Debruyne@uliege.be
+	Math pour l'informatique 2: 	echarlier@uliege.be
+	Intro aux processus stocha:	A.Aboubacar@uliege.be; P.Geurts@uliege.be
+BAC 3:
+	Q1:
+	Advanced English for ICT:	Adnan.Vesseur@uliege.be; cbouvy@uliege.be
+	Intro to computer networking:	Guy.Leduc@uliege.be
+	Computation structures:		Pascal.Fontaine@uliege.be; Laurent.Mathy@uliege.be
+	Logic for Computer Science:	Pascal.Fontaine@uliege.be
+	Eléments de statistiques:	P.Sacre@uliege.be
+	Embedded systems:		Bernard.Boigelot@uliege.be
+	Intro artificial intelligence:	G.Louppe@uliege.be
+	Q2:
+	Programming techniques:		Laurent.Mathy@uliege.be
+	Contrats relatifs à l'info:	Benoit.Kohl@uliege.be
+	Oopp:				Laurent.Mathy@uliege.be
+	Operating systems:		Laurent.Mathy@uliege.be
+	Parallel Programming:		Pascal.Fontaine@uliege.be
+	Embedded systems project:	Bernard.Boigelot@uliege.be
