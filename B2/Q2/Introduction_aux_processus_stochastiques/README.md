@@ -1,2 +1,2 @@
-# cloud_css
+# Introduction aux processus stochastiques
 Aide pour les étudiants en sciences informatique de l'université de l'Uliege.

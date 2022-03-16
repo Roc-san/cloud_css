@@ -1,2 +1,2 @@
-# cloud_css
+# Eléments de statistiques
 Aide pour les étudiants en sciences informatique de l'université de l'Uliege.
