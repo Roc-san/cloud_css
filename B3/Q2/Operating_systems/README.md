@@ -48,8 +48,18 @@ vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour évi
 
 #### TP
 
+rien pour le moment 
+
 ### Course slides
+
+
+rien pour le moment 
 
 ### Others
 
+
+rien pour le moment 
+
 #### Synthesis
+
+rien pour le moment 
