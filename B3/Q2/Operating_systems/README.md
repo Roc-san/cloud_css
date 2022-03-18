@@ -33,7 +33,7 @@ vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour évi
 
 ### Podcast
 
-#### Theory
+===== Theory =====
 
 * [1_Introduction](https://www.youtube.com/watch?v=g5rg3z-VnFo&list=PLrPMyxJhTVsJ0sJXJDvQDCo98u16bp5uw&index=1)
 * [2_OS service and structure](https://www.youtube.com/watch?v=EmAJ5lUW1XE&list=PLrPMyxJhTVsJ0sJXJDvQDCo98u16bp5uw&index=2)
@@ -46,7 +46,7 @@ vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour évi
 * [8a_Scheduling](https://www.youtube.com/watch?v=JKG8DU4Xq5c&list=PLrPMyxJhTVsJ0sJXJDvQDCo98u16bp5uw&index=9)
 * [8b_Threads](https://www.youtube.com/watch?v=jLYJv686pso&list=PLrPMyxJhTVsJ0sJXJDvQDCo98u16bp5uw&index=10)
 
-#### TP
+===== TP =====
 
 rien pour le moment 
 
