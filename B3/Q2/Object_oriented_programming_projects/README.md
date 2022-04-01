@@ -35,8 +35,14 @@ vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour évi
 
 ===== Theory =====
 * [Lecture 1](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture1.pdf)
-*
-*
+* [Lecture 2](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture2.pdf)
+* [Lecture 3](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture3.pdf)
+* [Lecture 4](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture4.pdf)
+* [Lecture 5](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture5.pdf)
+* [Lecture 6](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture6.pdf)
+* [Lecture 7](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture7.pdf)
+* [Lecture 8](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture8.pdf)
+* [Lecture 9](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture9.pdf)
 
 ===== TP =====
 
