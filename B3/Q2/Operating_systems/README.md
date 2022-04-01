@@ -21,7 +21,7 @@ The goal of this course is to introduce the fundamental concepts and mechanisms 
 * étudier 
 * ouvrir son cours
 * avoir plus de 2 de QI
-* je troll bien évidament
+* je troll bien évidement
 
 ### Last chance
 
