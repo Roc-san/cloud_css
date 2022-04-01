@@ -34,7 +34,7 @@ vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour évi
 ### Podcast
 
 ===== Theory =====
-*
+* [Lecture 1](https://github.com/uliegeCSS/cloud_css/blob/main/B3/Q2/Object_oriented_programming_projects/Slides/lecture1.pdf)
 *
 *
 
